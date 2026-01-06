@@ -1,2 +1,0 @@
-# type castaing and type conversion.
-#
